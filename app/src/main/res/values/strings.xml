@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="text_header">My Shopping List</string>
+    <string name="add">add</string>
+    <string name="text_header_sec">Pick one of the items</string>
+    <string name="item_1">Rice</string>
+    <string name="item_2">Craker</string>
+    <string name="item_3">Chips</string>
+</resources>
